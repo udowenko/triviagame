@@ -1,0 +1,40 @@
+/* Students: Our work lies in the js file. */
+body { /* Visual */
+  background: #E0FFFF;
+}
+
+#triviahead{
+
+  font-family: arial;
+  font-color: grey;
+
+}
+
+h2 {
+
+  font-family: arial;
+
+}
+#start {
+  font-family: arial;
+  font-size: 18px;
+  color: grey;
+  /* Typography */
+  text-align: center;
+  /* Visual */
+  background: #E0FFFF;
+}
+#wrapper {
+  /* Box-model */
+  width: 600px;
+  /* Positioning */
+  margin: 50px auto 0;
+}
+#buttons { /* Typography */
+  text-align: center;
+}
+button {
+  width: 100px;
+  /* Box-model */
+  height: 50px;
+}
